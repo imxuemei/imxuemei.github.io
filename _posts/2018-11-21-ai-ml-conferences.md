@@ -22,6 +22,7 @@ IJCAI始于1969年，最初每2年举行一次，从2015年开始改为每年一
 
 ### ICLR, International Conference on Learning Representations, 国际学习表征会议
 主页：https://iclr.cc/  
+<!-- more -->
 2013年才刚刚成立了第一届。这个一年一度的会议虽然今年(2018)才办到第六届，但已经被学术研究者们广泛认可，被认为「深度学习的顶级会议」。  
 这个会议的来头不小，由位列深度学习三大巨头之二的 Yoshua Bengio 和 Yann LeCun 牵头创办。  
 Yoshua Bengio 是蒙特利尔大学教授，深度学习三巨头之一，他领导蒙特利尔大学的人工智能实验室（MILA）进行 AI 技术的学术研究。MILA 是世界上最大的人工智能研究中心之一，与谷歌也有着密切的合作。  
