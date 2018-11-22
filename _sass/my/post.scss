@@ -32,6 +32,21 @@
     padding: 0 3px;
 }
 
+.post-preview {
+    line-height: 1.7;
+    font-size: 15px;
+}
+
+.post-preview th {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.post-preview td {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
 .post-preview .post-readmore {
     text-align: right;
     margin: 20px 5px;
@@ -77,10 +92,20 @@
 }
 
 .post-content h4 {
-    margin-top: 15px;
+    margin-top: 16px;
 }
 
 .post-content {
-    line-height: 1.6;
+    line-height: 1.7;
     font-size: 15px;
+}
+
+.post-content th {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.post-content td {
+    border: 1px solid #ddd;
+    padding: 5px;
 }
