@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "转：《You and Your Research》中文版"
-categories: 读书笔记
-tags: phd
+categories: Book-Reading
+tags: Ph.D
 ---
 
 英文原版：http://www.cs.virginia.edu/~robins/YouAndYourResearch.html    

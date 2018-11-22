@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "2016-2018 AAAI会议总结汇总整理"
-categories: technology-news
-tags: trends
+categories: AI-Conference
+tags: AAAI
 ---
 > 本文内容来源于网络文章总结，详细内容请参见原文：
 > 2018 http://www.sohu.com/a/233087405_99940985

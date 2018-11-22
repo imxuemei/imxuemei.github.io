@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "2018 ICJAI Time Series相关论文阅读记录"
-categories: paper-reading
-tags: time series
+categories: Paper-Reading
+tags: time-series IJCAI
 ---
 ### [1]Causal Inference in Time Series via Supervised Learning
 #### Meta-Info

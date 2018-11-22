@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "机器学习领域会议总结"
-categories: paper-reading
-tags: conference
+categories: AI-Conference
+tags: AAAI NIPS IJCAI ICML ICLR
 ---
 
 > 会议部分参考：https://www.zhihu.com/question/31617024

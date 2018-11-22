@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ZT：Gartner 2019年十大战略技术趋势"
-categories: technology-news
+categories: News-Reading
 tags: trends
 ---
 
