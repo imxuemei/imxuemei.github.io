@@ -19,6 +19,7 @@ Shaofei Chen, Tim Baarslag, Dengji Zhao, Jing Chen, Lincheng Shen
 Benjamin Bittner, Marco Bozzano, Alessandro Cimatti  
 定时失效传播图的自动合成，非时序  
 
+<!-- more -->
 [3] A Decision Procedure for a Fragment of Linear Time Mu-Calculus / 1195  
 Yao Liu, Zhenhua Duan, Cong Tian  
 线性时间Mu-Calculus片段的决策程序，决策类  
@@ -27,11 +28,11 @@ Yao Liu, Zhenhua Duan, Cong Tian
 Mario Lucic, Olivier Bachem, Andreas Krause  
 线性时间异常检测灵敏度，模式识别类？  
 
-==[5] Unsupervised Feature Learning from Time Series== / 2322  
+**[5] Unsupervised Feature Learning from Time Series** / 2322  
 Qin Zhang, Jia Wu, Hong Yang, Yingjie Tian, Chengqi Zhang  
 时序的非监督特征学习，需要阅读  
 
-==[6] Clustering Financial Time Series: How Long Is Enough?== / 2583  
+**[6] Clustering Financial Time Series: How Long Is Enough?** / 2583  
 Gautier Marti, Sébastien Andler, Frank Nielsen, Philippe Donnat  
 聚类金融时序：多长时间才够用？ 需要阅读  
 
@@ -39,7 +40,7 @@ Gautier Marti, Sébastien Andler, Frank Nielsen, Philippe Donnat
 Shuai Xiao, Junchi Yan, Changsheng Li, Bo Jin, Xiangfeng Wang, Xiaokang Yang, Stephen M. Chu, Hongyuan  
 关于个人论文引文数量随时间的计算与预测，有空可读  
 
-==[8] ST-MVL: Filling Missing Values in Geo-Sensory Time Series Data== / 2704  
+**[8] ST-MVL: Filling Missing Values in Geo-Sensory Time Series Data** / 2704  
 Xiuwen Yi, Yu Zheng, Junbo Zhang, Tianrui Li  
 ST-MVL：在地理传感器时序数据中填充缺失值，需要阅读，京东出品，18年还有一篇  
 
@@ -47,7 +48,7 @@ ST-MVL：在地理传感器时序数据中填充缺失值，需要阅读，京�
 Yi Chang, Jiliang Tang, Dawei Yin, Makoto Yamada, Yan Liu  
 来自带生命周期的社交媒体的时间线总结，有空可读  
 
-==[10] Real-Time Web Scale Event Summarization Using Sequential Decision Making== / 3754  
+**[10] Real-Time Web Scale Event Summarization Using Sequential Decision Making** / 3754  
 Chris Kedzie, Fernando Diaz, Kathleen McKeown  
 使用时序决策的实时web规模事件总结，需要阅读  
 
@@ -75,7 +76,7 @@ Roman Kontchakov, Laura Pandolfo, Luca Pulina, Vladislav Ryzhikov, Michael Zakha
 Diedrich Wolter, Jae Hee Lee  
 通过命题关闭连接定性的空间和时间表示，有空可读  
 
-==[17] Resolving Over-Constrained Conditional Temporal Problems Using Semantically Similar Alternatives== / 3300  
+**[17] Resolving Over-Constrained Conditional Temporal Problems Using Semantically Similar Alternatives** / 3300  
 Peng Yu, Jiaying Shen, Peter Z. Yeh, Brian Williams  
 使用语义相似的替代品来解决过度约束的条件时间问题，需要阅读  
 
@@ -99,7 +100,7 @@ Yingwei Pan, Yehao Li, Ting Yao, Tao Mei, Houqiang Li, Yong Rui
 Alberto Camacho  
 不确定性和时间延长目标下的规划，规划类
 
-==[23] Are Spiking Neural Networks Useful for Classifying and Early Recognition of Spatio-Temporal Patterns?== / 4022  
+**[23] Are Spiking Neural Networks Useful for Classifying and Early Recognition of Spatio-Temporal Patterns?** / 4022  
 Banafsheh Rekabdar  
 尖峰神经网络是否可用于时空模式的分类和早期识别？需要阅读  
 
