@@ -22,7 +22,7 @@ tags: time-series IJCAI
 #### Contribution or Method
 1) 针对格兰杰因果关系识别，训练了一个分类器对时序进行三元分类，即结果标注为3元标注：X->Y, Y->X, No Causation。  
 2) 提出了一种特征表示：提供足够的不同特征向量表示时序的不同因果关系，这些特征向量是基于格兰杰因果关系定义识别出的：如果Y的紧随的两个future value的假定分布是不同的，一个future value是由Y的past value给出的，一个future value是由X和Y的past value共同给出的，则X是Y的原因。计算特征向量时使用了两个分布之间的距离。计算距离时使用了kernel mean embedding，将每个分布映射到了RKHS（再生核Hilbert空间）的特征空间，使用点之间的距离进行度量，术语为最大平均差异（maximum mean discrepancy）。
-
+<!-- more -->
 ### [2]GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction
 #### Meta-Info
 meta | info

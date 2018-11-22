@@ -12,7 +12,7 @@ Awards：[http://ijcai-16.org/index.php/welcome/view/awards](http://ijcai-16.org
 
 会议亮点之一是google AlphaGo的演讲，主要为深度强化学习实现，未来目标在健康医疗。
 两篇最佳论文，一篇为规划类论文，一篇为强化学习类论文。
-
+<!-- more -->
 **Distinguished Paper Award**   
 **(2902) Hierarchical Finite State Controllers for Generalized Planning**  
 *Javier Segovia, Sergio Jimenez and Anders Jonsson*  
