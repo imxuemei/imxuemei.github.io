@@ -8,7 +8,7 @@ tags: IJCAI time-series
 > 论文Proceedings参见 [https://www.ijcai.org/Proceedings/2016](https://www.ijcai.org/Proceedings/2016)
 
 ### 概述
-Time series相关论文共计25篇，与时序数据处理关系较大的有5篇需要阅读，已高亮。感兴趣可读的有8篇，标记为有空可读。  
+Time series相关论文共计25篇，与时序数据处理关系较大的有6篇需要阅读，已高亮。感兴趣可读的有8篇，标记为有空可读。  
 
 ### 论文汇总
 [1] A Polynomial Time Optimal Algorithm for Robot-Human Search under Uncertainty / 819  
