@@ -47,6 +47,11 @@
     padding: 5px;
 }
 
+.post-preview blockquote {
+    line-height: 1.7;
+    font-size: 14px;
+}
+
 .post-preview .post-readmore {
     text-align: right;
     margin: 20px 5px;
@@ -108,4 +113,9 @@
 .post-content td {
     border: 1px solid #ddd;
     padding: 5px;
+}
+
+.post-content blockquote {
+    line-height: 1.7;
+    font-size: 14px;
 }
