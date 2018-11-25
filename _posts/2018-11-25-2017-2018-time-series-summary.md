@@ -30,6 +30,7 @@ Nikhil Mishra, Pieter Abbeel, Igor Mordatch ; PMLR 70:2459-2468
 Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song ; PMLR 70:3462-3471  
 认识进化：深度时间推理实现动态知识图  
 
+<!-- more -->
 [5] Soft-DTW: a Differentiable Loss Function for Time-Series  
 Marco Cuturi, Mathieu Blondel ; PMLR 70:894-903  
 Soft-DTW：对时序的一种可微的损失函数  

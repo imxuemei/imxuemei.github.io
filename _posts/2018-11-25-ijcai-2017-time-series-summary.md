@@ -30,6 +30,7 @@ Dario Della Monica, Nicola Gigante, Angelo Montanari, Pietro Sala, Guido Sciavic
 Xu Lu, Cong Tian, Zhenhua Duan  
 带搜索控制知识的时间分离逻辑，暂不相关  
 
+<!-- more -->
 ##### Machine Learning
 **[5] Encoding and Recall of Spatio-Temporal Episodic Memory in Real Time**  
 Poo-Hee Chang, Ah-Hwee Tan  
