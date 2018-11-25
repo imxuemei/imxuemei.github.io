@@ -49,11 +49,11 @@ brekabdar@unr.edu
 | Title | Clustering Financial Time Series: How Long Is Enough? |
 | Authors | Gautier Marti,S'ebastien Andler,rank Nielsen,Philippe Donnat |
 | Citation | 8 |
-| Application |  |
-| Model/Method |  |
-| Related works |  |
-| dataset |  |
-| baselines |  |
+| Application | 对比了主流聚类方法，做了相关性模型，进行了分析 |
+| Model/Method | 暂无 |
+| Related works | 无 |
+| dataset | 无 |
+| baselines | 无 |
 
 #### Abstract
 Researchers have used from 30 days to several years of daily returns as source data for clustering financial time series based on their correlations.
@@ -63,7 +63,9 @@ Then, we also give a first empirical answer to the much debated question: How lo
 be? 
 If too short, the clusters found can be spurious; if too long, dynamics can be smoothed out.  
 
-摘要：研究者们使用了从30天到几年的每天的返回作为源数据，基于它们的相关性来聚类金融时序数据。本文建立了一个统计框架来研究这些实践的有效性。我们先展示了从他们观察到的值中聚类相关性随机变量在统计学上是一致的。然后，我们给出了第一个实验结果答案来解答很有争论性的问题：应该处理多长时间的时序数据？如果太短，聚类后的簇可能具有欺诈性，如果太长，动态性可能会趋于平滑而丢失。
+摘要：研究者们使用了从30天到几年的每天的返回作为源数据，基于它们的相关性来聚类金融时序数据。本文建立了一个统计框架来研究这些实践的有效性。我们先展示了从他们观察到的值中聚类相关性随机变量在统计学上是一致的。然后，我们给出了第一个实验结果答案来解答很有争论性的问题：应该处理多长时间的时序数据？如果太短，聚类后的簇可能具有欺诈性，如果太长，动态性可能会趋于平滑而丢失。  
+
+PS. 这篇也没太看懂，主旨应该是评估了下不同聚类算法在时间维度和准确性等的相关性的比较。
 
 > Gautier Marti, Hellebore Capital Ltd, Ecole Polytechnique  
 S'ebastien Andler, ENS de Lyon, Hellebore Capital Ltd  
@@ -77,18 +79,19 @@ Philippe Donnat, Hellebore Capital Ltd, Michelin House, London
 | --- | --- |
 | Title | Real-Time Web Scale Event Summarization Using Sequential Decision Making |
 | Authors | Chris Kedzie,Fernando Diaz,Kathleen McKeown |
-| Citation |  |
-| Application |  |
-| Model/Method |  |
-| Related works |  |
-| dataset |  |
-| baselines |  |
+| Citation | 9 |
+| Application | 提取文档概述 |
+| Model/Method | 从oracle policy中学习模型，采用局部优化学习方法搜索 |
+| Related works | 信息提取类工作：主流方法是使用输入相似性和图集中性进行rank，主题指纹覆盖；流式或时间总结首次在TREC会议提出，性能较好两个方法：密切性传播聚类、ranking/MDS系统结合方法 |
+| dataset | TREC Temporal Summarization Track data |
+| baselines | Cosine Similarity Threshold(CST), Affinity Propagation, Learning2Search+CST |
 
 #### Abstract
 We present a system based on sequential decision making for the online summarization of massive document streams, such as those found on the web. Given an event of interest (e.g. “Boston marathon bombing”), our system is able to filter the stream for relevance and produce a series of short text updates describing the event as it unfolds over time. Unlike previous work, our approach is able to jointly model the relevance, comprehensiveness, novelty, and timeliness required by time-sensitive queries. We demonstrate a 28.3% improvement in summary F1 and a 43.8% improvement in timesensitive F1 metrics.  
 
-摘要：我们为大量文档流的在线总结提供了一个基于顺序决策的系统，例如那些在网页上找到的文档。给定一个有趣的事件后（例如：波士顿马拉松爆炸），我们的系统能够过滤这些流以关联和生成这个短文本升级的一个序列，随时间展开式地描述这个事件。与之前方法不同，我们的方法能够联合建模时间敏感序列所需要的相关性、理解力、创新性和时间线。我们证明了在总结F1上有28.3%的提升，在时间敏感F1度量上有43.8%的提升。
+摘要：我们为大量文档流的在线总结提供了一个基于顺序决策的系统，例如那些在网页上找到的文档。给定一个有趣的事件后（例如：波士顿马拉松爆炸），我们的系统能够过滤这些流以关联和生成这个短文本升级的一个序列，随时间展开式地描述这个事件。与之前方法不同，我们的方法能够联合建模时间敏感序列所需要的相关性、理解力、创新性和时间线。我们证明了在总结F1上有28.3%的提升，在时间敏感F1度量上有43.8%的提升。  
 
+PS. 具体方法没看懂，以后再补充吧 :<
 
 > Chris Kedzie, Columbia University,Dept. of Computer Science,kedzie@cs.columbia.edu  
 Fernando Diaz,Microsoft Research,fdiaz@microsoft.com,  
@@ -101,12 +104,12 @@ Kathleen McKeown,Columbia University,Dept. of Computer Science,kathy@cs.columbia
 | --- | --- |
 | Title | Resolving Over-Constrained Conditional Temporal Problems Using Semantically Similar Alternatives |
 | Authors | Peng Yu,Jiaying Shen and Peter Z. Yeh,Brian Williams |
-| Citation |  |
-| Application |  |
-| Model/Method |  |
-| Related works |  |
-| dataset |  |
-| baselines |  |
+| Citation | 1 |
+| Application | 事件时序相关的日程规划，例如规划晚6-10点的外出吃饭和娱乐行程 |
+| Model/Method | 把旅行规划建模为CCTP，实现了CDSR算法，在规划过程中替换导致无法规划的强约束部分来得到推荐规划 |
+| Related works | 无 |
+| dataset | 提供了一个网页与用户交互来验证效果，用户对效果进行打分，1-5分，5分为最满意 |
+| baselines | 无 |
 
 #### Abstract
 In recent literature, several approaches have been developed to solve over-constrained travel planning problems, which are often framed as conditional temporal problems with discrete choices. These approaches are able to explain the causes of failure and recommend alternative solutions by suspending or weakening temporal constraints. While helpful, they may not be practical in many situations, as we often cannot compromise on time. In this paper, we present an approach for solving such over-constrained problems, by also relaxing non-temporal variable domains through the consideration of additional options that are semantically similar. Our solution, called Conflict-Directed Semantic Relaxation (CDSR), integrates a knowledge base and a semantic similarity calculator, and is able to simultaneously enumerate both temporal and domain relaxations in best-first order. When evaluated empirically on a range of urban trip planning scenarios, CDSR demonstrates a substantial improvement in flexibility compared to temporal relaxation only approaches.  
@@ -158,12 +161,12 @@ xiuwenyi@foxmail.com, {yuzheng, junbo.zhang}@microsoft.com, trli@swjtu.edu.cn
 | --- | --- |
 | Title | Unsupervised Feature Learning from Time Series |
 | Authors | Qin Zhang⇤, Jia Wu⇤, Hong Yang§, Yingjie Tian†,‡, Chengqi Zhang⇤ |
-| Citation |  |
-| Application |  |
-| Model/Method |  |
-| Related works |  |
-| dataset |  |
-| baselines |  |
+| Citation | 11 |
+| Application | 无监督学习中的表示学习，时序分类任务 |
+| Model/Method | 提出特征转换表示的一种优化公式，包括4部分：spectral正则、shapelets相似正则、2个最小化平方最小值正则 |
+| Related works | shapelets, shapelets learning, shapelets for clustering |
+| dataset | 人造数据、真实数据：UCR时序数据的7组 |
+| baselines | k-shapes |
 
 #### Abstract
 In this paper we study the problem of learning discriminative features (segments), often referred to as shapelets [Ye and Keogh, 2009] of time series, from unlabeled time series data. 
