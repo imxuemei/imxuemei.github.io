@@ -5,7 +5,8 @@ categories: Paper-Reading
 tags: AAAI time-series
 ---
 
-> 2017论文presentations参见 [https://aaai.org/ocs/index.php/AAAI/AAAI17/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI17/schedConf/presentations)  
+> 2016论文presentations参见 [https://aaai.org/ocs/index.php/AAAI/AAAI16/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI16/schedConf/presentations)  
+2017论文presentations参见 [https://aaai.org/ocs/index.php/AAAI/AAAI17/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI17/schedConf/presentations)  
 2018论文presentations参见 [https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations)
 
 

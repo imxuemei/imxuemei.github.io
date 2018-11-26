@@ -5,9 +5,9 @@ categories: Paper-Reading
 tags: NIPS time-series
 ---
 
-> 2016论文Proceedings参见 [https://aaai.org/ocs/index.php/AAAI/AAAI16/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI16/schedConf/presentations)  
+> 2016论文Proceedings参见 [http://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016)  
 2017论文Proceedings参见 [http://papers.nips.cc/book/advances-in-neural-information-processing-systems-30-2017](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-30-2017)  
-2018论文Proceedings参见 [https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations)
+2018论文Proceedings参见 [http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)
 
 ### 概述
 Time series相关论文2016年共计5篇，2017年共计5篇，2018年共计12篇。  
