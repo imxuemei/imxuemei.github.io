@@ -10,7 +10,7 @@ tags: NIPS time-series
 2018论文Proceedings参见 [https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations](https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations)
 
 ### 概述
-Time series相关论文2017年共计7篇，2018年共计16篇。  
+Time series相关论文2016年共计5篇，2017年共计5篇，2018年共计12篇。  
 
 ### 论文汇总
 #### 2016
