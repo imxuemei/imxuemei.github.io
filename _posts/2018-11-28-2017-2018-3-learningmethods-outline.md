@@ -5,6 +5,8 @@ categories: Paper-Reading
 tags: IJCAI ICML AAAI NIPS semi-supervised-learning online-learning transfer-learning
 ---
 
+[TOC]
+
 # ICML
 ## 2018: semi-supervised learning
 ### Semi-Supervised Learning via Compact Latent Space Clustering
@@ -389,6 +391,7 @@ tags: IJCAI ICML AAAI NIPS semi-supervised-learning online-learning transfer-lea
 ### Bandit Online Learning on Graphs via Adaptive Optimization
 - Peng Yang, Peilin Zhao, Xin Gao
 - 使用自适应优化的图中的老虎机在线学习
+
 ## 2017: semi-supervised learning
 ### Using Graphs of Classifiers to Impose Declarative Constraints on Semi-supervised Learning
 - Lidong Bing, William W. Cohen, Bhuwan Dhingra
@@ -396,17 +399,6 @@ tags: IJCAI ICML AAAI NIPS semi-supervised-learning online-learning transfer-lea
 ### Semi-supervised Feature Selection via Rescaled Linear Regression
 - Xiaojun Chen, Guowen Yuan, Feiping Nie, Joshua Zhexue Huang
 - 使用再扩展线性回归的半监督特征选择
-
-## 2017: transfer learning
-### Transfer Learning in Multi-Armed Bandits: A Causal Approach
-- Junzhe Zhang, Elias Bareinboim
-- 多臂老虎机的迁移学习：一种因果方法
-### Understanding How Feature Structure Transfers in Transfer Learning
-- Tongliang Liu, Qiang Yang, Dacheng Tao
-- 理解迁移学习中特征结构迁移是如何实现的，香港科技大学
-### Completely Heterogeneous Transfer Learning with Attention - What And What Not To Transfer
-- Seungwhan Moon, Jaime Carbonell
-- 使用注意力机制进行完整的异质迁移学习-哪些能迁移以及哪些不能迁移
 ### Semi-Supervised Learning for Surface EMG-based Gesture Recognition
 - Yu Du, Yongkang Wong, Wenguang Jin, Wentao Wei, Yu Hu, Mohan Kankanhalli, Weidong Geng
 - 用于Surface基于EMG的手势识别的半监督学习
@@ -438,5 +430,17 @@ tags: IJCAI ICML AAAI NIPS semi-supervised-learning online-learning transfer-lea
 - Rodrigo Agerri, German Rigau
 - 带阴影半监督特征的鲁棒性多语言命名实体的识别
 
+## 2017: transfer learning
+### Transfer Learning in Multi-Armed Bandits: A Causal Approach
+- Junzhe Zhang, Elias Bareinboim
+- 多臂老虎机的迁移学习：一种因果方法
+### Understanding How Feature Structure Transfers in Transfer Learning
+- Tongliang Liu, Qiang Yang, Dacheng Tao
+- 理解迁移学习中特征结构迁移是如何实现的，香港科技大学
+### Completely Heterogeneous Transfer Learning with Attention - What And What Not To Transfer
+- Seungwhan Moon, Jaime Carbonell
+- 使用注意力机制进行完整的异质迁移学习-哪些能迁移以及哪些不能迁移
+
+
 ## 2017: online learning
-暂无
+### 暂无
