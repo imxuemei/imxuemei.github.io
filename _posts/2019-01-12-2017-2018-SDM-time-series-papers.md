@@ -15,6 +15,7 @@ Daniel Y. T. Chino, Alceu F. Costa, Agma J. M. Traina, and Christos Faloutsos
 
 是否有可能在社交媒体和在线商店上发现审查欺诈和垃圾邮件？ 在本文中，我们分析了到达时间和事件量（如评论和在线评论）的联合分布，并表明可以准确地对可疑用户进行排名和检测，例如垃圾邮件发送者，僵尸程序和欺诈者。 我们提出VolTime，一种适合真实用户的到达间时间分布（IAT）的生成模型。 因此，VOLTIME会自动查找并排列可疑用户。 几个真实数据集的实验，从Reddit评论和电话到Flipkart产品评论，表明VolTime能够准确地拟合实际数据的活动量和IAT。 此外，我们还表明，VolTime对可疑用户进行排名，其灵敏度高于90％，灵敏度为70％。
 
+<!-- more -->
 ## Indexing and classifying gigabytes of time series under time warping
 Chang Wei Tan, Geoffrey I. Webb, and François Petitjean  
 

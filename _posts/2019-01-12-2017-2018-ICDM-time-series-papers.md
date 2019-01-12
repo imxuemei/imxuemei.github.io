@@ -25,7 +25,7 @@ Viktor Losing, Heiko Wersing, and Barbara Hammer
 
 ## Explainable time series tweaking via irreversible and reversible temporal transformations
 Isak Karlsson, Jonathan Rebane, Panagiotis Papapetrou, and Aristides Gionis
-
+<!-- more -->
 ## DE-RNN: Forecasting the probability density function of nonlinear time series
 Kyongmin Yeo, Igor Melnyk, and Nam Nguyen
 

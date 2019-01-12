@@ -13,7 +13,7 @@ SIGKDD：CCF A类
 David Hallac (Stanford University);Sagar Vare (Stanford University);Stephen Boyd (Stanford University);Jure Leskovec (Stanford University)  
 
 多变量时间序列的子序列聚类是用于发现时间数据中的重复模式的有用工具。一旦发现了这些模式，看似复杂的数据集就可以被解释为只有少数状态或集群的时间序列。例如，来自健身追踪应用的原始传感器数据可以表示为选择的几个动作（即，步行，坐着，跑步）的时间线。然而，发现这些模式具有挑战性，因为它需要同时分割和聚类时间序列。此外，解释所得到的聚类是困难的，尤其是当数据是高维的时。在这里，我们提出了一种基于模型的聚类的新方法，我们称之为Toeplitz基于逆协方差的聚类（TICC）。 TICC方法中的每个聚类由相关网络或马尔可夫随机场（MRF）定义，表征该聚类的典型子序列中的不同观察之间的相互依赖性。基于该图形表示，TICC同时对时间序列数据进行分段和聚类。我们通过期望最大化（EM）算法解决TICC问题。我们分别通过动态规划和乘法器的交替方向法（ADMM）推导出封闭形式的解决方案，以可扩展的方式有效地解决E和M步骤。我们通过在一系列合成实验中将TICC与几个最先进的基线进行比较来验证我们的方法，然后我们在汽车传感器数据集上演示TICC如何用于在现实场景中学习可解释的聚类。
-
+<!-- more -->
 ## [2] Mixture Factorized Ornstein-Uhlenbeck Processes for Time-Series Forecasting
 Author(s):   
 Guo-Jun Qi (UCF);Jiliang Tang (MSU);Jingdong Wang (Microsoft);Jiebo Luo (University of Rochester)  
